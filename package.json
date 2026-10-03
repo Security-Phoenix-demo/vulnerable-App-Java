@@ -1,0 +1,12 @@
+{
+  "name": "vulnerable-app-java-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "DELIBERATELY VULNERABLE. Test fixture for Phoenix Security remediation. Do not deploy.",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "minimist": "1.2.0",
+    "axios": "0.21.0"
+  }
+}

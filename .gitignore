@@ -1,0 +1,9 @@
+.gradle/
+build/
+target/
+node_modules/
+.venv/
+__pycache__/
+*.class
+.idea/
+.DS_Store
